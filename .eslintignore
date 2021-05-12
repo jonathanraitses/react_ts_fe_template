@@ -1,0 +1,5 @@
+config
+scripts
+.vscode
+.github
+node_modules
